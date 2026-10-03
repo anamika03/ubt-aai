@@ -1,0 +1,70 @@
+student_id,study_program,python_experience,weekly_study_hours,attendance_percent,assignments_completed,coffee_cups_per_week,exam_score,passed,tutorial_group,enrollment_date
+AAI001,Business Administration,Intermediate,6.0,90,8,1,70.2,True,T1,2026-04-07
+AAI002,Business Administration,Advanced,11.3,100,8,10,80.8,True,T2,2026-04-08
+AAI003,Philosophy,Basic,9.4,71,9,1,70.5,True,T3,2026-04-09
+AAI004,Mathematics,Intermediate,7.6,79,8,14,60.7,True,T1,2026-04-10
+AAI005,Computer Science,Basic,5.0,59,10,0,47.2,False,T2,2026-04-11
+AAI006,Philosophy,None,6.1,90,7,12,58.4,True,T3,2026-04-12
+AAI007,Philosophy,Intermediate,,100,9,13,68.6,True,T1,2026-04-13
+AAI008,Philosophy,Intermediate,4.7,98,7,4,61.6,True,T2,2026-04-14
+AAI009,Mathematics,Basic,11.8,79,5,7,66.6,True,T3,2026-04-15
+AAI010,Business Administration,Basic,4.4,98,3,11,40.8,False,T1,2026-04-16
+AAI011,Computer Science,None,6.2,100,9,5,57.2,True,T2,2026-04-17
+AAI012,Computer Science,Advanced,14.8,100,7,2,88.8,True,T3,2026-04-18
+AAI013,Computer Science,,6.2,81,7,8,43.5,False,T1,2026-04-07
+AAI014,Philosophy,Basic,5.7,88,8,1,66.2,True,T2,2026-04-08
+AAI015,Sports Economics,None,0.5,85,6,12,41.8,False,T3,2026-04-09
+AAI016,Sports Economics,Basic,2.7,76,6,2,44.8,False,T1,2026-04-10
+AAI017,Business Administration,Intermediate,9.6,77,5,7,56.6,True,T2,2026-04-11
+AAI018,Sports Economics,Basic,5.7,77,6,5,60.2,True,T3,2026-04-12
+AAI019,Mathematics,None,4.9,76,7,4,53.0,True,T1,2026-04-13
+AAI020,Business Administration,Basic,3.2,87,7,9,49.8,False,T2,2026-04-14
+AAI021,Business Administration,Intermediate,0.5,59,8,3,57.8,True,T3,2026-04-15
+AAI022,Computer Science,Advanced,7.9,60,5,3,65.4,True,T1,2026-04-16
+AAI023,Sports Economics,Intermediate,,86,8,8,72.2,True,T2,2026-04-17
+AAI024,Mathematics,Basic,8.1,90,4,1,55.6,True,T3,2026-04-18
+AAI025,Computer Science,Basic,10.0,79,9,2,78.8,True,T1,2026-04-07
+AAI026,Philosophy,Advanced,7.1,68,7,12,72.9,True,T2,2026-04-08
+AAI027,Philosophy,Basic,6.0,68,8,9,47.3,False,T3,2026-04-09
+AAI028,Philosophy,Intermediate,7.1,93,7,5,59.0,True,T1,2026-04-10
+AAI029,Computer Science,Basic,11.1,66,7,11,46.6,False,T2,2026-04-11
+AAI030,Sports Economics,None,7.0,91,6,7,47.5,False,T3,2026-04-12
+AAI031,Philosophy,Advanced,3.5,64,5,2,48.7,False,T1,2026-04-13
+AAI032,Computer Science,Basic,9.7,75,8,6,57.5,True,T2,2026-04-14
+AAI033,Business Administration,Basic,5.5,83,6,6,44.9,False,T3,2026-04-15
+AAI034,Computer Science,Intermediate,8.3,67,8,6,63.1,True,T1,2026-04-16
+AAI035,Sports Economics,Intermediate,8.3,72,10,0,63.3,True,T2,2026-04-17
+AAI036,Sports Economics,Intermediate,7.6,100,5,11,65.1,True,T3,2026-04-18
+AAI037,Sports Economics,Basic,11.9,70,9,9,62.2,True,T1,2026-04-07
+AAI038,Philosophy,Intermediate,10.2,81,5,0,52.6,True,T2,2026-04-08
+AAI039,Computer Science,Basic,5.1,68,5,2,41.4,False,T3,2026-04-09
+AAI040,Mathematics,Basic,6.5,100,4,15,47.5,False,T1,2026-04-10
+AAI041,Business Administration,Basic,5.1,96,3,8,57.3,True,T2,2026-04-11
+AAI042,Philosophy,Basic,,71,6,6,46.8,False,T3,2026-04-12
+AAI043,Mathematics,Intermediate,4.6,60,7,5,51.2,True,T1,2026-04-13
+AAI044,Mathematics,None,7.4,66,8,2,52.7,True,T2,2026-04-14
+AAI045,Philosophy,Advanced,7.6,78,4,12,53.9,True,T3,2026-04-15
+AAI046,Philosophy,None,0.5,94,9,8,54.0,True,T1,2026-04-16
+AAI047,Philosophy,None,5.0,68,5,7,31.6,False,T2,2026-04-17
+AAI048,Sports Economics,None,5.2,83,9,5,32.5,False,T3,2026-04-18
+AAI049,Philosophy,Intermediate,7.1,89,8,7,67.9,True,T1,2026-04-07
+AAI050,Business Administration,Intermediate,6.4,35,9,9,57.4,True,T2,2026-04-08
+AAI051,Sports Economics,None,2.8,73,7,7,48.3,False,T3,2026-04-09
+AAI052,Sports Economics,Intermediate,5.6,94,9,10,64.3,True,T1,2026-04-10
+AAI053,Business Administration,None,7.6,80,9,2,52.5,True,T2,2026-04-11
+AAI054,Sports Economics,Advanced,7.0,78,7,7,61.5,True,T3,2026-04-12
+AAI055,Sports Economics,,9.0,100,10,4,56.4,True,T1,2026-04-13
+AAI056,Sports Economics,None,5.8,79,10,14,54.8,True,T2,2026-04-14
+AAI057,Sports Economics,Basic,9.2,100,9,10,73.1,True,T3,2026-04-15
+AAI058,Computer Science,Intermediate,5.0,72,3,7,49.5,False,T1,2026-04-16
+AAI059,Sports Economics,Advanced,9.2,68,4,8,68.5,True,T2,2026-04-17
+AAI060,Business Administration,None,3.0,100,6,9,50.8,True,T3,2026-04-18
+AAI061,Sports Economics,None,6.7,59,7,11,38.7,False,T1,2026-04-07
+AAI062,Philosophy,None,5.1,56,7,8,45.9,False,T2,2026-04-08
+AAI063,Mathematics,Intermediate,8.0,78,10,11,63.5,True,T3,2026-04-09
+AAI064,Sports Economics,None,2.5,70,7,12,38.1,False,T1,2026-04-10
+AAI065,Mathematics,Basic,9.1,98,6,8,51.4,True,T2,2026-04-11
+AAI066,Business Administration,Basic,2.5,100,4,14,42.4,False,T3,2026-04-12
+AAI067,Mathematics,Basic,7.7,81,7,8,56.0,True,T1,2026-04-13
+AAI068,Philosophy,Advanced,3.5,87,8,0,60.6,True,T2,2026-04-14
+AAI069,Computer Science,Basic,3.7,73,4,2,43.5,False,T3,2026-04-15
