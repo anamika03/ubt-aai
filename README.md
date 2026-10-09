@@ -10,3 +10,7 @@ Course materials will be uploaded gradually during the semester.
 - The respective solutions will be uploaded **after the corresponding discussion/exercise session**.
 
 Please check the repository regularly for newly released exercises, solutions, and possible updates to existing material.
+
+## Keeping exercise materials up to date
+
+All exercises are subject to change. Students should therefore pull the latest version of the repository shortly before starting each exercise. If you are not using Git, download the current ZIP archive again instead.
