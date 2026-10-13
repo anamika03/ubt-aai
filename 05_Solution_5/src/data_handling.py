@@ -1,8 +1,12 @@
-import os
+from pathlib import Path
+
 import pandas as pd
 
-def _load_NASA_data(directory = "data", file_name = "1900_2021_DISASTERS.csv"):
-    file_path = os.path.join(directory, file_name)
+DATA_DIR = Path(__file__).resolve().parents[2] / "data"
+
+
+def _load_NASA_data(directory=DATA_DIR, file_name="1900_2021_DISASTERS.csv"):
+    file_path = Path(directory) / file_name
 
     df = pd.read_csv(file_path)
 

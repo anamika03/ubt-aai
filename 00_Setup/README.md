@@ -26,7 +26,7 @@ Exercise cells are tagged `exercise` and marked with `# TODO`. They are delibera
 
 ## Synthetic dataset
 
-`data/aai_student_data.csv` contains 69 entirely fictional student records generated deterministically for these tutorials. The rows do **not** describe real students, courses, grades, or behavior at the University of Bayreuth or anywhere else. Intentional missing values support data-cleaning exercises.
+[`../data/aai_student_data.csv`](../data/aai_student_data.csv) contains 69 entirely fictional student records generated deterministically for these tutorials. The rows do **not** describe real students, courses, grades, or behavior at the University of Bayreuth or anywhere else. Intentional missing values support data-cleaning exercises.
 
 ## Style and attribution
 
