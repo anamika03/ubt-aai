@@ -9,8 +9,8 @@ from api_client import request_prediction
 st.set_page_config(page_title="Iris Classifier", page_icon="🌸")
 st.title("Iris Classifier")
 st.write(
-    "Enter four flower measurements. The frontend sends them to the "
-    "FastAPI backend and displays its prediction."
+  "Enter four flower measurements. The frontend sends them to the "
+  "FastAPI backend and displays its prediction."
 )
 
 # ---- YOUR CODE GOES HERE (START) ----
